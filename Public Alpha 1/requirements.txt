@@ -1,0 +1,7 @@
+PyQt6
+psutil
+send2trash
+torch
+torchvision
+Pillow
+

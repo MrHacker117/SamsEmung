@@ -1,0 +1,21 @@
+SamsEmung/
+├── main.py
+├── gui.py
+├── qemu_controller.py
+├── config.py
+├── dump_analyzer.py
+├── ai_file_searcher.py
+├── samsung_sdk_manager.py
+├── utils/
+│   └── file_utils.py
+├── models/
+│   └── device_model.py
+├── ui/
+│   ├── main_window.py
+│   ├── settings_tab.py
+│   └── emulator_tab.py
+├── tests/
+│   ├── test_qemu_controller.py
+│   └── test_dump_analyzer.py
+└── requirements.txt
+

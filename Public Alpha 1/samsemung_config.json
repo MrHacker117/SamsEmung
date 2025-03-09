@@ -1,0 +1,28 @@
+{
+  "qemu_path": "C:/Program Files/qemu",
+  "qemu_executable": "C:/Program Files/qemu/qemu-system-arm.exe",
+  "samsung_models": {
+    "Galaxy S10": "arm64",
+    "Galaxy S20": "arm64",
+    "Galaxy Note 10": "arm64",
+    "SM-G900F": "arm"
+  },
+  "dump_folder": "C:/Users/uleva/Desktop/Samsung/S5",
+  "boot_img_path": "C:/Users/uleva/Desktop/Samsung/boot.img",
+  "virtual_disk_size": 1,
+  "virtual_disk_path": "C:\\Users\\uleva\\AppData\\Local\\Temp\\samsemung_vdisk\\samsung_vdisk.qcow2",
+  "touchwiz_versions": [
+    "TouchWiz 5",
+    "TouchWiz 6",
+    "TouchWiz 7"
+  ],
+  "oneui_versions": [
+    "One UI 1.0",
+    "One UI 2.0",
+    "One UI 3.0"
+  ],
+  "font": "Default",
+  "kernel_path": "",
+  "virtual_memory": 2048,
+  "use_ai_search": false
+}
