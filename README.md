@@ -196,3 +196,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This project is not affiliated with, authorized by, endorsed by, or in any way officially connected with Samsung Electronics Co., Ltd., or any of its subsidiaries or affiliates. The official Samsung website can be found at [www.samsung.com](https://www.samsung.com).
+
+Code: tf5lcth7vphqifxt
