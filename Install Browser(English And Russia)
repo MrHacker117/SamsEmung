@@ -1,0 +1,35 @@
+Russian Language:
+📢 Установка Яндекс.Браузера из Яндекс Дистрибуции
+Чтобы установить Яндекс.Браузер на эмулируемое устройство с помощью SamsEmung, следуйте этим шагам:
+
+1️⃣ Перейдите по этой ссылке и скачайте .apk файл. 2️⃣ Переместите загруженный файл в /sdcard/Download/ внутри эмулятора. 3️⃣ Запустите эмулятор SamsEmung и выполните команду:
+
+bash
+adb install /sdcard/Download/имя_файла.apk
+4️⃣ Готово! Теперь вы можете пользоваться Яндекс.Браузером.
+
+📌 Маркировка рекламы:
+
+🔖 Реклама | ООО «Яндекс» | ИНН: 7736207543
+
+🏷️ erid: ХХХХХХ
+
+📊 Ежемесячный отчет о показах.
+
+English Language:
+, Installing Yandex Browser from Yandex Distribution
+To install Yandex Browser on an emulated device using Samsung, follow these steps:
+
+1️⃣ Follow this link and download the .apk file. 2. Move the downloaded file to /sdcard/Download/ inside the emulator. 3️⃣ Launch the SamsEmung emulator and run the command:
+
+bash
+adb install /sdcard/Download/file_name.apk
+4️⃣ Done! Now you can use Yandex Browser.
+
+, Advertising labeling:
+
+, Advertising | Yandex LLC | TIN: 7736207543
+
+erid: XXXXXX
+
+, Monthly impression report.
